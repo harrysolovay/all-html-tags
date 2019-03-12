@@ -5,7 +5,5 @@ npm i all-html-tags
 ```
 
 ```js
-import allHTMLTags from 'all-html-tags'
-
-// console.log(allHTMLTags)
+import {tags, exists} from 'all-html-tags'
 ```

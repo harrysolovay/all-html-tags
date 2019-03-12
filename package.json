@@ -2,7 +2,7 @@
   "name": "all-html-tags",
   "description": "A list of all HTML tags",
   "author": "Harry Solovay",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "license": "MIT"
 }

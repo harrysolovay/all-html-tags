@@ -336,7 +336,7 @@ const existenceMap = {
   xmp: true,
 }
 
-const exists = inQuestion => !!existenceMap(inQuestion)
+const exists = inQuestion => !!existenceMap[inQuestion]
 
 module.exports = {
   tags,
